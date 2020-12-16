@@ -1,6 +1,8 @@
+#class
+
 #include <cstdio>
 
-class Stack{
+class Stack { 
     public:
         int a[100];
         int top;
@@ -24,7 +26,6 @@ class Stack{
         if (top == 0) puts("error");
         else return a[top-1]; 
     }
-
 };
 
 int b;
