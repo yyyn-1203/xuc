@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-int main() {
+int main(void)
+{   
+    int num;
+    num = 1;
     printf("Hello Xu");
     return 0;
 }
