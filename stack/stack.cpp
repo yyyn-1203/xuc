@@ -1,5 +1,3 @@
-#class
-
 #include <cstdio>
 
 class Stack { 
